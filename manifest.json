@@ -1,0 +1,15 @@
+{
+  "name": "Vicampo Zendesk App",
+  "author": {
+    "name": "Manuel Schmidt",
+    "email": "manuel.schmidt@vicampo.de",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": { "zendesk":
+    { "ticket_sidebar": "assets/iframe.html" }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
